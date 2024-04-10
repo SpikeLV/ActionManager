@@ -1,0 +1,15 @@
+{
+    "db-config":{
+        "host": "localhost",
+        "user": "aretelogic",
+        "password": "YKIf2V$794xVnq@@",
+        "database": "aretelogic"
+    },
+    "logic-main":[
+        "http://10.10.10.58"
+    ],
+    "logic-action":[
+        "http://10.10.10.38",
+        "http://10.10.10.39"
+    ]
+}
